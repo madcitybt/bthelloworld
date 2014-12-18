@@ -3,4 +3,4 @@ bthelloworld
 
 test repo
 
-Not muxh to tell
+Not much to tell
